@@ -1,4 +1,5 @@
 # Nessus_revalidation
+<<<<<<< HEAD
 [![GitHub stars](https://img.shields.io/github/stars/rishuranjanofficial/Nessus_Revalidation?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/Nessus_Revalidation/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/rishuranjanofficial/Nessus_Revalidation?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/JWTweak/network)
 
 ## Introduction
@@ -20,3 +21,7 @@ Tenable's Nessus is used for vulnerability assessment for network. Nessus Profes
 ## Author
 **Rishu Ranjan**
 > [![](https://img.shields.io/twitter/follow/tweetit_rrj?style=social)](https://twitter.com/intent/follow?screen_name=tweetit_rrj)   [![](https://static-exp1.licdn.com/sc/h/95o6rrc5ws6mlw6wqzy0xgj7y)](https://www.linkedin.com/in/rishuranjan/)
+=======
+nessus revalidation script github
+In Progress......
+>>>>>>> ad1a41304b09820c2d1cb15abc2696478825b0ff
